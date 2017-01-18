@@ -1,8 +1,8 @@
 [user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+  name = Jonathan Larkin
+  email = jonathan@ovo.ie
 [core]
-  editor = vi
+  editor = atom
   excludesfile = ~/.gitignore
   autocrlf = input
 [color]
